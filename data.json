@@ -1,0 +1,71 @@
+[
+    {
+        "tanggal": "2025-10-13 16:40:48",
+        "cabang": "Kendari",
+        "speedFry": true,
+        "item": {
+            "dada": {
+                "jumlah": 1,
+                "harga": 14000,
+                "total": 14000
+            },
+            "paha": {
+                "jumlah": 2,
+                "harga": 12000,
+                "total": 24000
+            },
+            "nasi": {
+                "jumlah": 3,
+                "harga": 5000,
+                "total": 15000
+            }
+        },
+        "total": 53000
+    },
+    {
+        "tanggal": "2025-10-13 16:44:02",
+        "cabang": "Kendari",
+        "speedFry": true,
+        "item": {
+            "dada": {
+                "jumlah": 1,
+                "harga": 14000,
+                "total": 14000
+            },
+            "paha": {
+                "jumlah": 2,
+                "harga": 11000,
+                "total": 22000
+            },
+            "nasi": {
+                "jumlah": 3,
+                "harga": 5000,
+                "total": 15000
+            }
+        },
+        "total": 51000
+    },
+    {
+        "tanggal": "2025-10-13 16:44:08",
+        "cabang": "Kendari",
+        "speedFry": true,
+        "item": {
+            "dada": {
+                "jumlah": 1,
+                "harga": 14000,
+                "total": 14000
+            },
+            "paha": {
+                "jumlah": 2,
+                "harga": 11000,
+                "total": 22000
+            },
+            "nasi": {
+                "jumlah": 3,
+                "harga": 5000,
+                "total": 15000
+            }
+        },
+        "total": 51000
+    }
+]
